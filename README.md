@@ -1,3 +1,8 @@
+# ts-type-challenge
+
+### use for study ts type
+
+
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
