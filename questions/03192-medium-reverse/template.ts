@@ -1,1 +1,1 @@
-type Reverse<T> = any
+type Reverse<T> = T extends [infer Pre, ...infer Rest] ? [...Reverse<Rest>, Pre] : T
